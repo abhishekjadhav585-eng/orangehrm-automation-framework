@@ -1,0 +1,65 @@
+2026-03-09 16:11:54,546 - INFO - Test Started: Logout Flow
+2026-03-09 16:11:54,547 - INFO - Logging into application
+2026-03-09 16:12:06,692 - INFO - Login successful, dashboard loaded
+2026-03-09 16:12:10,249 - INFO - adding new employee
+2026-03-09 16:15:11,819 - INFO - Test Started: Logout Flow
+2026-03-09 16:15:11,820 - INFO - Logging into application
+2026-03-09 16:15:14,755 - INFO - Login successful, dashboard loaded
+2026-03-09 16:15:15,779 - INFO - adding new employee
+2026-03-09 16:15:27,066 - INFO - employee added succesfully
+2026-03-09 16:15:27,066 - INFO - logging out from application
+2026-03-09 16:15:34,742 - INFO - logged out succesfully
+2026-03-09 16:43:48,067 - INFO - Test Started: Logout Flow
+2026-03-09 16:43:48,072 - INFO - Logging into application
+2026-03-09 16:44:51,108 - INFO - Test Started: Logout Flow
+2026-03-09 16:44:51,109 - INFO - Logging into application
+2026-03-09 16:46:11,407 - INFO - Test Started: Logout Flow
+2026-03-09 16:46:11,407 - INFO - Logging into application
+2026-03-09 16:46:22,788 - INFO - Login successful, dashboard loaded
+2026-03-09 16:46:24,318 - INFO - adding new employee
+2026-03-09 16:48:05,915 - INFO - Test Started: Logout Flow
+2026-03-09 16:48:05,915 - INFO - Logging into application
+2026-03-09 16:52:46,567 - INFO - Test Started: Logout Flow
+2026-03-09 16:52:46,567 - INFO - Logging into application
+2026-03-09 16:52:52,174 - INFO - Login successful, dashboard loaded
+2026-03-09 16:52:53,281 - INFO - adding new employee
+2026-03-09 16:53:09,040 - INFO - employee added succesfully
+2026-03-09 16:53:09,040 - INFO - logging out from application
+2026-03-09 16:53:13,606 - INFO - logged out succesfully
+2026-03-09 22:47:58,893 - INFO - test started: delete first employee 
+2026-03-09 22:47:58,896 - INFO - logging into application
+2026-03-09 22:48:03,167 - INFO - Login successful, dashboard loaded
+2026-03-09 22:48:03,167 - INFO - deleting first employee
+2026-03-09 22:48:11,444 - INFO - employee deleted succesfully
+2026-03-10 15:55:48,334 - INFO - test started: delete first employee 
+2026-03-10 15:55:48,334 - INFO - logging into application
+2026-03-27 22:53:03,719 - INFO - test started: delete first employee 
+2026-03-27 22:53:03,720 - INFO - logging into application
+2026-03-27 22:53:06,164 - INFO - Login successful, dashboard loaded
+2026-03-27 22:53:06,165 - INFO - deleting first employee
+2026-03-27 22:53:12,615 - INFO - employee deleted succesfully
+2026-03-27 22:53:28,776 - INFO - test started: delete first employee 
+2026-03-27 22:53:28,776 - INFO - logging into application
+2026-03-27 22:53:31,543 - INFO - Login successful, dashboard loaded
+2026-03-27 22:53:31,543 - INFO - deleting first employee
+2026-03-27 22:53:38,641 - INFO - employee deleted succesfully
+2026-03-27 22:55:10,293 - INFO - test started: delete first employee 
+2026-03-27 22:55:10,293 - INFO - logging into application
+2026-03-27 22:55:13,115 - INFO - Login successful, dashboard loaded
+2026-03-27 22:55:13,115 - INFO - deleting first employee
+2026-03-27 22:55:20,041 - INFO - employee deleted succesfully
+2026-03-27 22:55:34,625 - INFO - test started: delete first employee 
+2026-03-27 22:55:34,625 - INFO - logging into application
+2026-03-27 22:55:37,934 - INFO - Login successful, dashboard loaded
+2026-03-27 22:55:37,934 - INFO - deleting first employee
+2026-03-27 22:55:45,577 - INFO - employee deleted succesfully
+2026-03-27 23:07:05,474 - INFO - test started: delete first employee 
+2026-03-27 23:07:05,474 - INFO - logging into application
+2026-03-27 23:07:08,031 - INFO - Login successful, dashboard loaded
+2026-03-27 23:07:08,031 - INFO - deleting first employee
+2026-03-27 23:07:15,664 - INFO - employee deleted succesfully
+2026-03-27 23:09:03,345 - INFO - test started: delete first employee 
+2026-03-27 23:09:03,346 - INFO - logging into application
+2026-03-27 23:09:06,487 - INFO - Login successful, dashboard loaded
+2026-03-27 23:09:06,487 - INFO - deleting first employee
+2026-03-27 23:09:12,859 - INFO - employee deleted succesfully
