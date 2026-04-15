@@ -1,0 +1,7 @@
+[32mINFO    [0m automation:test_logout.py:14 Test Started: Logout Flow
+[32mINFO    [0m automation:test_logout.py:17 Logging into application
+[32mINFO    [0m automation:test_logout.py:23 Login successful, dashboard loaded
+[32mINFO    [0m automation:test_logout.py:30 adding new employee
+[32mINFO    [0m automation:test_logout.py:36 employee added succesfully
+[32mINFO    [0m automation:test_logout.py:39 logging out from application
+[32mINFO    [0m automation:test_logout.py:46 logged out succesfully

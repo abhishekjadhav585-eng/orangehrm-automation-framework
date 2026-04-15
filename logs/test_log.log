@@ -63,3 +63,15 @@
 2026-03-27 23:09:06,487 - INFO - Login successful, dashboard loaded
 2026-03-27 23:09:06,487 - INFO - deleting first employee
 2026-03-27 23:09:12,859 - INFO - employee deleted succesfully
+2026-04-15 16:01:01,880 - INFO - test started: delete first employee 
+2026-04-15 16:01:01,884 - INFO - logging into application
+2026-04-15 16:01:04,475 - INFO - Login successful, dashboard loaded
+2026-04-15 16:01:04,475 - INFO - deleting first employee
+2026-04-15 16:01:08,516 - INFO - employee deleted succesfully
+2026-04-15 16:02:29,526 - INFO - Test Started: Logout Flow
+2026-04-15 16:02:29,526 - INFO - Logging into application
+2026-04-15 16:02:31,322 - INFO - Login successful, dashboard loaded
+2026-04-15 16:02:31,840 - INFO - adding new employee
+2026-04-15 16:02:39,301 - INFO - employee added succesfully
+2026-04-15 16:02:39,301 - INFO - logging out from application
+2026-04-15 16:02:41,130 - INFO - logged out succesfully

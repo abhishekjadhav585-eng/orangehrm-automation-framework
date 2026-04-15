@@ -1,0 +1,5 @@
+[32mINFO    [0m automation:test_delete_employee.py:13 test started: delete first employee 
+[32mINFO    [0m automation:test_delete_employee.py:16 logging into application
+[32mINFO    [0m automation:test_delete_employee.py:22 Login successful, dashboard loaded
+[32mINFO    [0m automation:test_delete_employee.py:25 deleting first employee
+[32mINFO    [0m automation:test_delete_employee.py:28 employee deleted succesfully

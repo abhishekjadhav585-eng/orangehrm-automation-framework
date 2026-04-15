@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","9305","test_add_employee","tests","2026-04-15","passed","2026-04-15","TestAddEmployee","test_add_employee","",""
+"","6640","test_delete_employee","tests","2026-04-15","passed","2026-04-15","TestDeleteEmployee","test_delete_employee","",""
+"","9340","test_edit_employee","tests","2026-04-15","broken","2026-04-15","TestEditEmployee","test_edit_employee","",""
+"","5680","test_search_employee","tests","2026-04-15","passed","2026-04-15","TestEmployeeList","test_search_employee","",""
+"","11607","test_logout","tests","2026-04-15","passed","2026-04-15","TestLogout","test_logout","",""
+"","4300","test_valid_login","tests","2026-04-15","passed","2026-04-15","TestLogin","test_login","",""
